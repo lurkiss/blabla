@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '21neon',
+  tagline: 'car is my life',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://belousovmatvey.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: '21neon', // Usually your GitHub org/user name.
+  projectName: 'blabla', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Cars',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lkiPQR-TGj3MQdeBeXOcZLsgVtHbjXS9qP3NS-VD-w&s',
         },
         items: [
           {
